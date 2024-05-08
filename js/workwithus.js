@@ -1,4 +1,4 @@
-; (function () {
+ (function () {
 
     var inputs = document.querySelectorAll('.inputfile');
 
