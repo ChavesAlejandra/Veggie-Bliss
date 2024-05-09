@@ -1,8 +1,14 @@
+.title{
+    font-weight: 700;
+    font-size: x-large;
+}
 .container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 50px;
     padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .category-card {
